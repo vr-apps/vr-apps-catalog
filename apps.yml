@@ -111,9 +111,9 @@ apps:
     main: true
     rating: 4.4
 
-  - name: dev
-    developer: local.enovikov11.ru
-    js: https://local.enovikov11.ru/index.js  
+  - name: enovikov11 dev
+    developer: enovikov11
+    js: /enovikov11-apps/dev.js  
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
     rating: 5.1
