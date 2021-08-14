@@ -4,99 +4,116 @@ apps:
     js: /three.js/vr-apps/ballshooter.js  
     thumbnail: /vr-apps-catalog/thumbnails/ballshooter.png
     main: true
+    rating: 4.9
 
   - name: Cubes
     developer: three.js
     js: /three.js/vr-apps/cubes.js
     thumbnail: /vr-apps-catalog/thumbnails/cubes.png
     main: true
+    rating: 4.3
 
   - name: Dragging
     developer: three.js
     js: /three.js/vr-apps/dragging.js
     thumbnail: /vr-apps-catalog/thumbnails/dragging.png
     main: true
+    rating: 4.6
 
   - name: Handinput cubes
     developer: three.js
     js: /three.js/vr-apps/handinput_cubes.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Handinput
     developer: three.js
     js: /three.js/vr-apps/handinput.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Handinput pointerclick
     developer: three.js
     js: /three.js/vr-apps/handinput_pointerclick.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Handinput pointerdrag
     developer: three.js
     js: /three.js/vr-apps/handinput_pointerdrag.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Handinput pressbutton
     developer: three.js
     js: /three.js/vr-apps/handinput_pressbutton.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Handinput profiles
     developer: three.js
     js: /three.js/vr-apps/handinput_profiles.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Haptics
     developer: three.js
     js: /three.js/vr-apps/haptics.js
     thumbnail: /vr-apps-catalog/thumbnails/haptics.png
     main: true
+    rating: 4.5
 
   - name: Layers
     developer: three.js
     js: /three.js/vr-apps/layers.js
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
 
   - name: Lorenz Attractor
     developer: three.js
     js: /three.js/vr-apps/lorenzattractor.js
     thumbnail: /vr-apps-catalog/thumbnails/lorenzattractor.png
     main: true
+    rating: 4.7
 
   - name: Paint
     developer: three.js
     js: /three.js/vr-apps/paint.js
     thumbnail: /vr-apps-catalog/thumbnails/paint.png
     main: true
+    rating: 5
 
   - name: Rollercoaster
     developer: three.js
     js: /three.js/vr-apps/rollercoaster.js
     thumbnail: /vr-apps-catalog/thumbnails/rollercoaster.png
     main: true
+    rating: 4.8
 
   - name: Sandbox
     developer: three.js
     js: /three.js/vr-apps/sandbox.js
     thumbnail: /vr-apps-catalog/thumbnails/sandbox.png
     main: true
+    rating: 1
 
   - name: Sculpt
     developer: three.js
     js: /three.js/vr-apps/sculpt.js
     thumbnail: /vr-apps-catalog/thumbnails/sculpt.png
     main: true
+    rating: 4.4
 
   - name: dev
     developer: local.enovikov11.ru
     js: https://local.enovikov11.ru/index.js  
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
+    rating: 0
