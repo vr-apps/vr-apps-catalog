@@ -1,53 +1,69 @@
 apps:
   - name: Ball shooter
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/ballshooter.js  
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Cubes
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/cubes.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Dragging
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/dragging.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput cubes
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput_cubes.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput pointerclick
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput_pointerclick.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput pointerdrag
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput_pointerdrag.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput pressbutton
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput_pressbutton.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Handinput profiles
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/handinput_profiles.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Haptics
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/haptics.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Layers
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/layers.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Lorenz Attractor
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
-  - name: Ball shooter
+    js: /three.js/vr-apps/lorenzattractor.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Paint
     developer: three.js
-    js: https://vr-apps.github.io/three.js/vr-apps/ballshooter.js  
-    thumbnail: https://vr-apps.github.io/vr-apps-catalog/thumbnails/test-logo-stub.png
+    js: /three.js/vr-apps/paint.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Rollercoaster
+    developer: three.js
+    js: /three.js/vr-apps/rollercoaster.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Sandbox
+    developer: three.js
+    js: /three.js/vr-apps/sandbox.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: Sculpt
+    developer: three.js
+    js: /three.js/vr-apps/sculpt.js
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+  - name: dev
+    developer: local.enovikov11.ru
+    js: https://local.enovikov11.ru/index.js  
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
