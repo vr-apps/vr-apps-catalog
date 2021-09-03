@@ -117,3 +117,10 @@ apps:
     thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
     dev: true
     rating: 5.1
+
+  - name: voxel
+    developer: enovikov11
+    js: /enovikov11-apps/voxel.js  
+    thumbnail: /vr-apps-catalog/thumbnails/enovikov11.png
+    dev: true
+    rating: 5.2
